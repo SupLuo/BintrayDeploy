@@ -1,3 +1,0 @@
-
-//## 在library module的build.gradle中 应用bintray配置
-apply from:'./bintray_jcenter.gradle'
